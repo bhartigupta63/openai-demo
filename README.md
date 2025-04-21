@@ -1,2 +1,2 @@
-# springai-demo
+# openai-demo
 Spring AI demo
